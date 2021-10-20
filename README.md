@@ -1,4 +1,4 @@
 # projeto-responsivo
 projeto feito baseado nas aulas do senai taguatinga-df.
 
-E testando a ediçao via gihub
+https://thiagodeiub.github.io/projeto-responsivo/
